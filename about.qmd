@@ -1,12 +1,6 @@
 ---
 title: "About"
-about:
-    id: intro-heading
-    template: trestles
-    image: images/profilepic.jpg
-    links:
-      - icon: github
-        href: https://github.com/Xiaofan6-Liu
+
 ---
 
 About this site
